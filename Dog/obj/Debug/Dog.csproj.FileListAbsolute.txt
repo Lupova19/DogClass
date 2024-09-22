@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\bin\Debug\Dog.exe.config
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\bin\Debug\Dog.exe
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\bin\Debug\Dog.pdb
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\obj\Debug\Dog.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\obj\Debug\Dog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\obj\Debug\Dog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\obj\Debug\Dog.exe
+C:\Users\Admin\Desktop\Lupova19\DogZadacha\Dog\obj\Debug\Dog.pdb
